@@ -1,0 +1,5 @@
+modules/*
+.tmp
+.vagrant
+Puppetfile.lock
+files/*.deb
