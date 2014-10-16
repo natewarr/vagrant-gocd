@@ -17,4 +17,4 @@ Installs Go Continuous Integration Server & Agent in Vagrant
     cd vagrant-gocd
     vagrant up
 
-Point your browser to [http://localhost:8153](http://localhost:8153) or [https://localhost:8154](https://localhost:8154)
+Point your browser to [http://localhost:8153](http://localhost:8153) or [https://localhost:8154](https://localhost:8154). You can use ```vagrant ssh``` to get shell access (with sudo).
